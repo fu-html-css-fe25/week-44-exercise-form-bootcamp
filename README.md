@@ -2,7 +2,7 @@
 
 ## 01 - Login Form
 
-Börja din formulär-resa med att skapa upp ett väldigt simpelt inloggningsformulär innehållandes input-fält för användarnamn och lösenord. Inga fält får lämnas tomma.
+Börja din formulär-resa med att skapa upp ett väldigt simpelt inloggningsformulär innehållandes input-fält för användarnamn och lösenord, samt en submit-knapp. Inga fält får lämnas tomma.
 
 Styla efter eget tycke och smak. Använd flexbox!
 
@@ -20,6 +20,13 @@ Tips! För att skapa upp felmeddelandet i den sista bilden kan du kombinera pseu
 
 ![Cool Club Signup Form](./form.png)
 
-## 04 - Ganska tråkig bonusuppgift
+## 04 - Bonusuppgift!
 
-Uppgiften [hittar du här](https://github.com/Santosnr6/formul-r-jobbans-kan)
+Leta ett formulär på webben! Kanske är det ett formulär som du använder till vardags, eller något mer avancerat som ser häftigt ut. 
+Välj gärna ett formulär där du får möjlighet att testa på något av följande:
+
+* Checkboxar
+* Radioknappar
+* Dropdownlista med <Select>-elementet
+
+Försök sedan återskapa formuläret.
