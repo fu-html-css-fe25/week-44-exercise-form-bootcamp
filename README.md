@@ -16,7 +16,7 @@ Använd grid för skapa den övergripande layouten, men också för själva form
 
 Återskapa formuläret på bilderna nedan. De olika varienterna visar hur formuläret ser ut i olika lägen av interaktion med användaren.
 
-Tips! För att skapa upp felmeddelandet i den sista bilden kan du kombinera pseudoklassen :invalid med att skapa upp ett eget pseudoelement ::after.
+Felmeddelandet på den sista bilden GÅR att skapa, men är lite överkurs så det är absolut ingenting ni behöver lägga kraft och energi på i nuläget.
 
 ![Cool Club Signup Form](./form.png)
 
